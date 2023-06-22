@@ -3,7 +3,7 @@
 
 課題2 Booker1です。
 
-# Ruby バージョン
+#Ruby バージョン
 
 ruby 3.1.2
 
