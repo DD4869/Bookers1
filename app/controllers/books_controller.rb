@@ -1,5 +1,6 @@
 class BooksController < ApplicationController
   def new
+    raise ActiveRecord::RecordNotFound
   end
 
   def create

@@ -1,24 +1,12 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#DMM WEBCAMP 短期集中/専門技術コース_基礎知識学習フェーズer1.2 アプリケーションを完成させよう
 
-Things you may want to cover:
+課題2 Booker1です。
 
-* Ruby version
+# Ruby バージョン
 
-* System dependencies
+ruby 3.1.2
 
-* Configuration
+＃使い方
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+githubからBookersアプリをクローンするなどして、使用してください。
